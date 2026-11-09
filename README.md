@@ -6,7 +6,7 @@ I build the software behind the Oral Bible Translation Lab: tools that help comm
 
 ## Now — Shema OBT
 
-Leading the development of the lab's platforms, from the mobile apps used in the field to the backend they share.
+Building the lab's platforms, from the mobile apps used in the field to the backend they share.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
